@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dee2577@gmail.com
+	name = Dirk Mischke
